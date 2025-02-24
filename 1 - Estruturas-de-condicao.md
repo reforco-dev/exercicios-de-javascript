@@ -1,4 +1,4 @@
-## Estruturas condicionais
+## Estruturas de condição
 
 São estruturas que podem mudar a ordem de execução de um programa, e podem ser utilizadas da seguinte maneira: 
 
