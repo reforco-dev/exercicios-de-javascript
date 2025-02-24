@@ -1,4 +1,4 @@
-## Estruturas condicionais
+## Estruturas de repetição
 
 São estruturas que repetir um trecho de código por um determinado numero de vezes ou enquanto uma condição for satisfeita. 
 
