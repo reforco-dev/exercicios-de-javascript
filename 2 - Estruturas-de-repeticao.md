@@ -60,11 +60,13 @@ Multiplique todos os números de 1 a 10 e exiba o resultado final.
 
 #### 10 - Impressão de um triângulo de asteriscos:
 Utilize um for para imprimir uma pirâmide de 5 linhas como esta:
+```javascript
     *
    ***
   *****
  *******
 *********
+```
 
 
 ## Exercícios para resolver com while
