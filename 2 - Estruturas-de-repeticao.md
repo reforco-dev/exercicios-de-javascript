@@ -2,6 +2,8 @@
 
 São estruturas que repetir um trecho de código por um determinado numero de vezes ou enquanto uma condição for satisfeita. 
 
+Muito utilizadas para percorrer arrays.
+
 ### for:
 Geralmente utilizado quando se sabe exatamente quantas vezes o código deve ser repetido.
 
