@@ -45,66 +45,66 @@ condicao ? "caso seja verdadeiro" : "caso seja falso"
 
 ## Exercícios para resolver com if/else
 
-#### Verificação de Idade:
+#### 1 - Verificação de Idade:
 Escreva um programa que recebe a idade de uma pessoa e imprime "Maior de idade" se for 18 anos ou mais, e "Menor de idade" caso contrário.
 
-#### Número Positivo, Negativo ou Zero:
+#### 2 - Número Positivo, Negativo ou Zero:
 Solicite um número ao usuário e exiba se ele é positivo, negativo ou zero.
 
-#### Maior entre Dois Números:
+#### 3 - Maior entre Dois Números:
 Peça dois números e mostre qual é o maior. Se forem iguais, exiba "Os números são iguais".
 
-#### Par ou Ímpar:
+#### 4 - Par ou Ímpar:
 Peça um número e informe se ele é par ou ímpar.
 
-#### Cálculo de Média:
+#### 5 - Cálculo de Média:
 Receba três notas de um aluno, calcule a média e exiba "Aprovado" se for 7 ou mais, "Recuperação" se for entre 5 e 6.9, e "Reprovado" se for abaixo de 5.
 
-#### Desconto em Compra:
+#### 6 - Desconto em Compra:
 Se o valor da compra for maior que R$100, aplique um desconto de 10% e exiba o novo valor.
 
-#### Verificação de Ano Bissexto:
+#### 7 - Verificação de Ano Bissexto:
 Peça um ano e verifique se é bissexto (divisível por 4 e não por 100, a menos que seja divisível por 400).
 
-#### Acesso a um Sistema:
+#### 8 - Acesso a um Sistema:
 Peça um nome de usuário e uma senha. Se forem "admin" e "1234", exiba "Acesso permitido", caso contrário, "Acesso negado".
 
-#### Frete Grátis:
+#### 9 - Frete Grátis:
 Se o valor da compra for maior ou igual a R$200, ofereça frete grátis, caso contrário, cobre R$20.
 
-#### Número dentro de um Intervalo:
+#### 10 - Número dentro de um Intervalo:
 Solicite um número e exiba "Está no intervalo" se ele estiver entre 10 e 50, caso contrário, exiba "Fora do intervalo".
 
 ## Exercícios para resolver com switch/case
 
-#### Dia da Semana:
+#### 1 - Dia da Semana:
 Peça um número de 1 a 7 e exiba o dia correspondente (1 - Domingo, 2 - Segunda...).
 
-#### Nota por Conceito:
+#### 2 - Nota por Conceito:
 Peça uma nota (A, B, C, D ou F) e exiba o conceito correspondente ("Ótimo", "Bom", "Regular", "Ruim", "Reprovado").
 
-#### Calculadora Simples:
+#### 3 - Calculadora Simples:
 Peça dois números e uma operação matemática (+, -, *, /) e exiba o resultado da operação.
 
-#### Mês do Ano:
+#### 4 - Mês do Ano:
 Peça um número de 1 a 12 e exiba o nome do mês correspondente.
 
-#### Classificação de Filme:
+#### 5 - Classificação de Filme:
 Peça uma classificação etária (L, 10, 12, 14, 16, 18) e exiba a faixa etária permitida para assistir ao filme.
 
-#### Menu de Restaurante:
+#### 6 - Menu de Restaurante:
 Exiba um menu com 3 opções de prato e peça ao usuário para escolher um número. Exiba o nome do prato escolhido.
 
-#### Conversor de Unidades:
+#### 7 - Conversor de Unidades:
 Peça ao usuário que escolha uma unidade de temperatura (Celsius, Fahrenheit ou Kelvin) e exiba informações sobre a conversão.
 
-#### Classificação de Veículo:
+#### 8 - Classificação de Veículo:
 Peça um tipo de veículo (carro, moto, caminhão) e exiba uma mensagem com a categoria correspondente.
 
-#### Estado Civil:
+#### 9 - Estado Civil:
 Peça ao usuário para inserir seu estado civil (Solteiro, Casado, Divorciado, Viúvo) e exiba uma mensagem correspondente.
 
-#### Código de Produto:
+#### 10 - Código de Produto:
 Peça um código numérico e exiba o nome do produto correspondente (ex: 1 - Arroz, 2 - Feijão, 3 - Leite).
 
 
