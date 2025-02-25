@@ -26,4 +26,4 @@ fetch("url-da-api")
 ## Exercícicos
 
 #### 1 - Utilize a API [https://viacep.com.br/][ViaCEP] para criar uma tela com um formulário de endereço que vai ser preenchido automaticamente quando o CEP for informado.
-- Exemplo de tela: [https://www.figma.com/design/1smeHjK8PoFtzw4NCaYv7l/Refor%C3%A7oDev-FormAddress?node-id=0-1&p=f&t=0n67XozfK6Gc8rrC-0][Figma] 
+- Exemplo de tela: [Figma](https://www.figma.com/design/1smeHjK8PoFtzw4NCaYv7l/Refor%C3%A7oDev-FormAddress?node-id=0-1&p=f&t=0n67XozfK6Gc8rrC-0) 
