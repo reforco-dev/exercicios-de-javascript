@@ -44,7 +44,7 @@ console.log(materia.split("/"));
 [24, 02, 2025]
 ```
 
-lista completa [https://www.w3schools.com/js/js_string_methods.asp][aqui]
+lista completa [aqui](https://www.w3schools.com/js/js_string_methods.asp)
 
 ## Exercícios
 
