@@ -47,7 +47,7 @@ console.log(materia.join("/"));
 24/02/2025
 ```
 
-lista completa [https://www.w3schools.com/js/js_array_methods.asp][aqui]
+lista completa [aqui](https://www.w3schools.com/js/js_array_methods.asp)
 
 ## Exercícios
 
