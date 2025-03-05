@@ -24,13 +24,6 @@ while(limite < X){ // enquanto limite não chegar em X continurá executando
 }
 ```
 
-### operador ternário:
-Mais utilizado quando se quer testar uma condição sem montar uma estrurura multilinha.
-
-```javascript
-condicao ? "caso seja verdadeiro" : "caso seja falso"
-```
-
 ## Exercícios para resolver com for
 
 #### 1 - Contagem de 1 a 10:
