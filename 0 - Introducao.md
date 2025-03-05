@@ -36,17 +36,18 @@ Quando for nomear suas variáveis atente-se em algumas regras:
 ### Tipos de dados
 
 As informações que armazenamos nas variáveis podem ser de diferentes tipos:
+
 numero|number
-let numero = 2; 
-let numeroNegativo = -2; 
-let numeroDecimal =  2.0;
+- let numero = 2; 
+- let numeroNegativo = -2; 
+- let numeroDecimal =  2.0;
 
 texto|string
-let nome = "Reforço Dev" // strings sempre devem estar entre aspas
+- let nome = "Reforço Dev" // strings sempre devem estar entre aspas
 
 boleanos|boolean
-let fumante = false;
-let possuiCNH = true;
+- let fumante = false;
+- let possuiCNH = true;
 
 ### Operadores
 
@@ -54,7 +55,32 @@ Operadores estão divididos em algumas categorias, veja abaixo as principais
 
 #### Operadores de atribuição
 
-=  : atribuidor
-+= : atribuidor incrimental
--= : atribuidor decremental
+- =  : atribuidor
+- += : atribuidor incrimental
+- -= : atribuidor decremental
+
+#### Operadores aritméticos
+
+- + : adição
+- - : subtração
+- / : divisão
+- * : multiplicação
+- % : resto da divisão
+
+#### Operadores de comparação
+
+- == : igualdade
+- != : diferença
+- <  : menor que
+- >  : maior que
+- <= : menor ou igual que
+- >= : maior ou igual que
+- === : estritamente igual
+- !== : estritamente diferente
+
+#### Operadores lógicos
+
+- && : e lógico
+- || : ou lógico
+- !  : negação
 
