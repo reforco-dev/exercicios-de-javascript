@@ -6,7 +6,13 @@ Javascript é uma linguagem de programação muito utilizada na web, para criar 
 
 - Javascript é fracamente tipado, o tipo de dado é inferido no momento da atribuição;
 - Javascript é case sensitive, ele diferencia letras minúsculas de maiúsculas;
-- Javascript é interpretado, ele precisa de um navegador ou do node para ser utilizado;
+- Javascript é interpretado, ele precisa de um navegador ou do [Node](https://nodejs.org/pt) para ser utilizado;
+
+### Extensões úteis
+
+- Code Runner
+- Javascript Auto Backticks
+- Auto Complete Tag
 
 ### Variáveis
 
