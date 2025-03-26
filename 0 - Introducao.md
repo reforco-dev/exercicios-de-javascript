@@ -28,7 +28,7 @@ idade = 35; // reatribuição
 Constantes tem o mesmo propósito que as variáveis, porem, seu valor não pode ser reatribuido:
 
 ```javascript
-const PI= 34; // declaração
+const PI = 34; // declaração
 PI = 35; // se tentar isso vai receber um erro...
 ```
 
@@ -69,8 +69,9 @@ Operadores estão divididos em algumas categorias, veja abaixo as principais
 
 ```javascript
 // =  : atribuidor
-// += : atribuidor incrimental
+// += : atribuidor incremental
 // -= : atribuidor decremental
+// *= : atribuidor multiplicador
 ```
 
 #### Operadores aritméticos
