@@ -72,6 +72,7 @@ Operadores estão divididos em algumas categorias, veja abaixo as principais
 // += : atribuidor incremental
 // -= : atribuidor decremental
 // *= : atribuidor multiplicador
+// /= : atribuidor divisão
 ```
 
 #### Operadores aritméticos
